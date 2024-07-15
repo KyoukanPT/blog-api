@@ -22,3 +22,11 @@
 - npm install <a href="https://axios-http.com/docs/intro"> Axios </a> <br>
 - node index.js <br>
 - node server.js (Open in another terminal)
+
+<hr>
+
+<h3>How to use the App?</h3>
+<p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
+<p> - To create a new post, click on the "New Post" button. </p>
+<p> - To update a post, click on the "Edit" button. </p>
+<p> - To delete a post, click on the "Delete" button. </p>
