@@ -21,3 +21,4 @@
 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
 - npm install <a href="https://axios-http.com/docs/intro"> Axios </a> <br>
 - node index.js
+- node server.js
